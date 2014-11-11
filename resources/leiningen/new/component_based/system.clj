@@ -1,0 +1,1 @@
+(ns {{namespace}}.system)
